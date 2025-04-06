@@ -1,4 +1,4 @@
-**개요:** 시각장애인의 경구약 복용에 있어, 스케쥴 관리, 경구약 보관을 용이하고 더 안전하게 할수있도록 도움을 주는, 랭체인 기반 챗봇 탑재 장치 개발
+**개요:**  Intel OpenVino와 ChatGPT API를 활용하여, 사용자가 동화책을 읽는 상황에서, 사용자와 배경을 구분하고, 사용자가 읽고있는 동화책 내용에 따라 실시간으로  배경의 이미지가 변경되는 프로그램
 
 **사용소프트웨어:**  OpenCV, Python, Intel OpenVino(background removal, stable diffusion), ChatGPT API(whisper, chatGPT)
 
